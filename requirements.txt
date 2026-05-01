@@ -1,0 +1,7 @@
+streamlit>=1.54
+scikit-learn
+xgboost
+plotly>=6.6
+pandas
+numpy
+joblib

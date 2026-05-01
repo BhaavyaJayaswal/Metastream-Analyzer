@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00e6e6"        # turquoise accent
+backgroundColor="#0d0d0d"     # deep black/charcoal
+secondaryBackgroundColor="#1a1a1a"
+textColor="#ffffff"
+font="sans serif"
